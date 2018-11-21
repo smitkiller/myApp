@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "585333449053",
+    "firebase_url": "https://cre-redux.firebaseio.com",
+    "project_id": "cre-redux",
+    "storage_bucket": "cre-redux.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:585333449053:android:32d73834602b951d",
+        "android_client_info": {
+          "package_name": "myApp.react.v1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "585333449053-43qqoahsbouqenst2o2vasas5eo7tvg7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsvCEePwwWRE4Nk_f5pBGE0yHIVZXsy9s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
